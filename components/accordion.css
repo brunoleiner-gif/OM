@@ -1,0 +1,15 @@
+.accordion-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: var(--background-tertiary);
+  padding: 5px 10px;
+}
+
+.accordion-body {
+  background-color: var(--background-quaternary);
+  padding: 5px 10px;
+  margin: 0;
+  font-size: 0.9rem;
+  text-align: left;
+}
